@@ -1,11 +1,11 @@
-About r-modelstudio
-===================
+About r-modelstudio-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-modelstudio-feedstock/blob/main/LICENSE.txt)
 
 Home: https://modelstudio.drwhy.ai, https://github.com/ModelOriented/modelStudio
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-modelstudio-feedstock/blob/main/LICENSE.txt)
 
 Summary: Automate the explanatory analysis of machine learning predictive models. Generate advanced interactive model explanations in the form of a serverless HTML site with only one line of code. This tool is model-agnostic, therefore compatible with most of the black-box predictive models and frameworks. The main function computes various (instance and model-level) explanations and produces a customisable dashboard, which consists of multiple panels for plots with their short descriptions. It is possible to easily save the dashboard and share it with others. Tools for Explanatory Model Analysis unite with tools for Exploratory Data Analysis to give a broad overview of the model behavior.
 
